@@ -23,5 +23,5 @@ Bu uygulamayı çalıştırmak için aşağıdaki yazılımlar gereklidir:
 1. Projeyi klonlayın veya indirin:
    ```bash
    git clone https://github.com/kullanici-adin/todo-app.git
-   cd to-do-list
+   cd to-do-app
    ```
